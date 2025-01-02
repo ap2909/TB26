@@ -9,7 +9,11 @@ public class Demo {
 	{
 		System.out.println("This is m2");
 	}
-	public static void main(String args[]) {
+	public void m3()
+	{
+		System.out.println("This is m3");
+	}
+      	public static void main(String args[]) {
 		System.out.println("This is main method");
 	}
 
